@@ -14,7 +14,6 @@ AI-Powered Insights: Leverages AI models to provide intelligent feedback on code
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-demo: https://www.loom.com/share/f70c7f305023465f8b7aebfd482ca3fd
 
 Currently, two official plugins are available:
 
